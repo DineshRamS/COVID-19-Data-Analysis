@@ -1,0 +1,19 @@
+
+COVID-19 Data Analysis — Brief Conclusions
+
+1. The United States had the highest confirmed case count among the selected countries by 27 July 2020.
+
+2. The United States also recorded the highest peak weekly cases and highest peak 7-day rolling average among the five selected countries.
+
+3. India and Brazil showed substantial increases in weekly cases during June and July 2020.
+
+4. South Africa had the highest average weekly case growth during the June–July period among the selected countries.
+
+5. Russia showed negative average weekly growth during the selected June–July period, indicating a declining weekly case trend in this analysis.
+
+6. The 7-day rolling average helped smooth daily fluctuations and made overall case trends easier to compare.
+
+7. Weekly aggregation reduced daily reporting noise and provided a clearer view of major changes in case activity.
+
+Note:
+The weekly growth comparison is a descriptive growth analysis and should not be interpreted as a formal epidemiological reproduction number (R0 or Rt).
